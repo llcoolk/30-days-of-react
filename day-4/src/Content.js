@@ -9,7 +9,7 @@ class Content extends React.Component {
       {/* Timeline item */}
         <div className="item">
           <div className="avatar">
-            <img 
+            <img
             alt='Doug'
             src="http://www.croop.cl/UI/twitter/images/doug.jpg" />
             Doug
@@ -18,7 +18,7 @@ class Content extends React.Component {
           <span className="time">
             An hour ago
           </span>
-          <p>Ate lunch</p>
+          <p>Ate taco for lunch</p>
           <div className="commentCount">
             2
           </div>
